@@ -141,6 +141,9 @@ a:active {
         line-height: 35.57px;
         text-align: center;
         cursor: pointer;
+        position: relative;
+        left: 14%;
+        bottom: 50px;
     }
 
     img {
