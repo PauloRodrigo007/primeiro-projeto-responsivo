@@ -2,6 +2,9 @@
 <br>
 <br>
 <h2>Efetuei varios testes como de positions, margin, padding entre outros, como também conheci e tive contato com as tecnologias abrangentes de estilização</h2>
+<br>
+<h2>Tecnologias Ultilizadas:</h2>
+CSS - HTML
 
 <br>
 <p>DESKTOP</p>
