@@ -14,15 +14,14 @@
 .esquerda {
     display: inline-block;
     width: 60%;
-    position: relative;
-    top: 381px;
-    left: 136px;
+    padding-left: 136px;
+    margin-top: 20%;
     
 }
 .direita {
     display: inline-block;
     background-color: rgba(93, 93, 125, 0.16);
-    height: 100vw;
+    height: 100vh;
     width: 40%;
     position: absolute;
    
@@ -41,8 +40,6 @@ a {
 }
 
 img {
-    width: 456px;
-    height: 561.95px;
     position: relative;
     top: 25%;
     right: 130px;
@@ -97,3 +94,65 @@ header {
 a:active {
     opacity: 0.5;
 }
+
+@media screen and (max-width: 900px) {
+    .esquerda {
+        width: 100%;
+        height: 50%;   
+        margin: 0;
+        padding: 0;     
+        
+    }
+
+    .direita {
+        display: block;
+        height: auto;
+        width: 100%;
+        position: static;
+        padding: 40px;
+       
+    }
+
+    h1 {
+        font-size: 36px;
+        line-height: 52px;
+        width: auto;
+        text-align: center;
+        margin: 58px 50px 0 50px;
+    }
+
+    p {
+        width: auto;    
+        font-size: 14px;
+        line-height: 24px;
+        text-align: center;
+        margin: 15px 40px;
+        
+    }
+
+    button {
+        width: 269px;
+        height: 62px;
+        background-color: #9499EA;
+        border-radius: 30px;
+        border: none;
+        color: #FFFFFF;
+        font-size: 24px;
+        line-height: 35.57px;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    img {
+        position: static;
+        max-width: 90%;
+       
+    }
+
+    header {
+       display: none;
+    }
+
+}
+
+
