@@ -5,7 +5,7 @@
 <br>
 <h2>Tecnologias Ultilizadas:</h2>
 CSS - HTML
-
+<br>
 <br>
 <p>DESKTOP</p>
 <img src="https://github.com/PauloRodrigo007/primeiro-projeto-responsivo/blob/main/assets/redmeproject.png?raw=true" />
