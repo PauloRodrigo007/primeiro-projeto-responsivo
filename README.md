@@ -7,10 +7,10 @@
 CSS - HTML
 <br>
 <br>
-<p>DESKTOP</p>
+<p>DESKTOP:</p>
 <img src="https://github.com/PauloRodrigo007/primeiro-projeto-responsivo/blob/main/assets/redmeproject.png?raw=true" />
 <br>
-<p>RESPONSIVO</p>
+<p>RESPONSIVO:</p>
 <img src="https://github.com/PauloRodrigo007/primeiro-projeto-responsivo/blob/main/assets/responsivoproject.jpg?raw=true" />
 <br>
 <p>em construção...</p>
